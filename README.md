@@ -1,4 +1,4 @@
-# 데이터 과학 팀 프로젝트 
+#데이터 과학 팀 프로젝트 
 * End-to-End Process 
  1-1) Business objective (경영목표)
 
